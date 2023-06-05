@@ -1,3 +1,4 @@
+<img src="https://github.com/Sarthak-ONS/react-gpt2-ui/assets/57105611/13fc907c-d945-46bc-bfdb-ac05cbc869ff"></img>
 
 # GPT-3 Home
 
